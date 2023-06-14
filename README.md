@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mensahkirlin.it@gmail.com**
 
-- ⚡ Fun fact **I enjoy watching Stand-Up Comedy and Classical Music.**
+- ⚡ Fun fact **I enjoy watching Stand-Up Comedy and listening to Classical Music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
