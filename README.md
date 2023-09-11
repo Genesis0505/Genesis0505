@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-window-coding-hello-world-nezfipv95sibsnvo.webp">
 
 
-- 🔭 I’m currently working on **buidling predicion models and learning to use MATLAB**
+- 🔭 I’m currently working on **building prediction models and learning to use MATLAB in my spare time.**
 
-- 🌱 I’m currently learning **Database engineering specifically using MySQL database management system.**
+- 🌱 I’m currently learning **Database engineering specifically using MySQL database management system and also learning C++ programming language..**
 
-- 👯 I’m looking to collaborate on **data science projects especially machine learning related projects, wordpress development projects, and database projects**
+- 👯 I’m looking to collaborate on **data science projects, especially machine learning-related projects, WordPress development projects, and database projects**
 
 - 🤝 I’m looking for help with **building effective and efficient regression models, and designing databases**
 
