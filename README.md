@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building prediction models and learning to use MATLAB in my spare time.**
 
-- 🌱 I’m currently learning **Database engineering specifically using MySQL database management system and also learning C++ programming language..**
+- 🌱 I’m currently learning **learning C++ programming language..**
 
 - 👯 I’m looking to collaborate on **data science projects, especially machine learning-related projects, WordPress development projects, and database projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mensahkirlin.it@gmail.com**
 
-- ⚡ Fun fact **I enjoy watching Stand-Up Comedy and listening to Classical Music.**
+- ⚡ Fun fact **I enjoy watching Comedy, Reading and listening to Classical Music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
